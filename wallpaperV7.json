@@ -1,13 +1,13 @@
 {
-  "Ads": [
+  "Adsx": [
     {
       "select_main_ads": "ADMOB",
-      "select_backup_ads":"APPLOVIN-D",
-      "main_ads_banner": "ca-app-pub-3940256099942544/6300978111",
-      "main_ads_intertitial":"ca-app-pub-3940256099942544/1033173712",
+      "select_backup_ads":"APPLOVIN-M",
+      "main_ads_banner": "ca-app-pub-7587542433361033/7690305299",
+      "main_ads_intertitial":"ca-app-pub-7587542433361033/5064141953",
       "main_ads_rewards":"",
-      "backup_ads_banner":"db4d5e8718b97d78",
-      "backup_ads_intertitial":"518cd97722c60b52",
+      "backup_ads_banner":"4e05cf2eb82c9614",
+      "backup_ads_intertitial":"611fd6e9d3d8b6e8",
       "backup_ads_rewards":"",
       "open_ads_admob":"",
       "open_ads_alien":"",
@@ -25,7 +25,7 @@
       "on_off_category":"2"
     }
   ],
-  "More":
+  "Morex":
   [
     {
       "id":1,
@@ -48,7 +48,7 @@
     
   ],
 
-  "Categories": 
+  "Categoriesx": 
   [
     {
       "id": 1,
